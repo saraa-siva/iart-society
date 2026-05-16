@@ -3,7 +3,12 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 100px;
+  text-align: center;
+}
+
+p {
+  font-size: 70px;
   text-align: center;
 }
   
