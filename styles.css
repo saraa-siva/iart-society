@@ -1,3 +1,9 @@
 body {
-  color: orange; 
+  color: black; 
 }
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+  
