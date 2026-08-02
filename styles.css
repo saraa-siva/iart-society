@@ -538,4 +538,57 @@ body.courses .add-course-btn:hover {
     max-width: 92vw;
     max-height: 72vh;
   }
+
+  .profile-container{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:40px;
+}
+
+.profile-card{
+    width:100%;
+    max-width:500px;
+    background:#223139;
+    border:2px solid #EFC36B;
+    border-radius:25px;
+    padding:40px;
+    text-align:center;
+    color:white;
+    font-family:"Josefin Sans";
+}
+
+.stats{
+    display:flex;
+    justify-content:space-around;
+    margin:20px 0;
+}
+
+.stat-box{
+    background:#1a252b;
+    padding:15px;
+    border-radius:15px;
+    width:120px;
+}
+
+.event-list{
+    margin-top:15px;
+}
+
+.event-item{
+    background:#1a252b;
+    margin:10px 0;
+    padding:12px;
+    border-radius:12px;
+}
+
+.back-btn{
+    margin-top:20px;
+    padding:12px;
+    border:none;
+    border-radius:12px;
+    background:#EFC36B;
+    cursor:pointer;
+}
 }
